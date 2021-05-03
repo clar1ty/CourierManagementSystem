@@ -1,0 +1,13 @@
+C:\Users\63909\source\repos\CourierManagementSystem\bin\Debug\netcoreapp3.1\CourierManagementSystem.exe
+C:\Users\63909\source\repos\CourierManagementSystem\bin\Debug\netcoreapp3.1\CourierManagementSystem.deps.json
+C:\Users\63909\source\repos\CourierManagementSystem\bin\Debug\netcoreapp3.1\CourierManagementSystem.runtimeconfig.json
+C:\Users\63909\source\repos\CourierManagementSystem\bin\Debug\netcoreapp3.1\CourierManagementSystem.runtimeconfig.dev.json
+C:\Users\63909\source\repos\CourierManagementSystem\bin\Debug\netcoreapp3.1\CourierManagementSystem.dll
+C:\Users\63909\source\repos\CourierManagementSystem\bin\Debug\netcoreapp3.1\CourierManagementSystem.pdb
+C:\Users\63909\source\repos\CourierManagementSystem\obj\Debug\netcoreapp3.1\CourierManagementSystem.csprojAssemblyReference.cache
+C:\Users\63909\source\repos\CourierManagementSystem\obj\Debug\netcoreapp3.1\CourierManagementSystem.AssemblyInfoInputs.cache
+C:\Users\63909\source\repos\CourierManagementSystem\obj\Debug\netcoreapp3.1\CourierManagementSystem.AssemblyInfo.cs
+C:\Users\63909\source\repos\CourierManagementSystem\obj\Debug\netcoreapp3.1\CourierManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\63909\source\repos\CourierManagementSystem\obj\Debug\netcoreapp3.1\CourierManagementSystem.dll
+C:\Users\63909\source\repos\CourierManagementSystem\obj\Debug\netcoreapp3.1\CourierManagementSystem.pdb
+C:\Users\63909\source\repos\CourierManagementSystem\obj\Debug\netcoreapp3.1\CourierManagementSystem.genruntimeconfig.cache
