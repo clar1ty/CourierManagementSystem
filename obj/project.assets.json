@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\63909\\source\\repos\\CourierManagementSystem\\CourierManagementSystem.csproj",
-      "projectName": "CourierManagementSystem",
-      "projectPath": "C:\\Users\\63909\\source\\repos\\CourierManagementSystem\\CourierManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\63909\\source\\repos\\CourierManagementSystem\\CMS.BL.csproj",
+      "projectName": "CMS.BL",
+      "projectPath": "C:\\Users\\63909\\source\\repos\\CourierManagementSystem\\CMS.BL.csproj",
       "packagesPath": "C:\\Users\\63909\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\63909\\source\\repos\\CourierManagementSystem\\obj\\",
       "projectStyle": "PackageReference",

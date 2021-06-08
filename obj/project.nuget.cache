@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mWjxQbxfQzr7fEFrRkx87p1sEw32sYiW8CKrgK6jvE9bLSbrmhmCLOM43dWDYPSuSd1eAIUTp5MijUX7EiQK+Q==",
+  "dgSpecHash": "ZM6SRsel1qfrAhxbM082+llkE7w30lLBExYc35aZbKMjU9sqc66hHX3oum27I6XQ4tTTxHcDhgedoJAbTO8geA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\63909\\source\\repos\\CourierManagementSystem\\CourierManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\63909\\source\\repos\\CourierManagementSystem\\CMS.BL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
